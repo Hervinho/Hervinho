@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hervé</h1>
-<h3 align="center">A passionate web developer and freelancer based in South Africa</h3>
-
-<p align="left"> <a href="https://twitter.com/iamhervinho" target="blank"><img src="https://img.shields.io/twitter/follow/iamhervinho?logo=twitter&style=for-the-badge" alt="iamhervinho" /></a> </p>
 
 - 🔭 I’m a full stack developer
 
