@@ -3,17 +3,14 @@
 
 <p align="left"> <a href="https://twitter.com/iamhervinho" target="blank"><img src="https://img.shields.io/twitter/follow/iamhervinho?logo=twitter&style=for-the-badge" alt="iamhervinho" /></a> </p>
 
-- 🔭 I’m currently working at the BMW Group South Africa as a full stack developer **SWIP**
+- 🔭 I’m a full stack developer
 
-- 🌱 I’m currently learning **Python**
-
-- 💬 About Me **I am a gamer and huge football and basketball fan. I am also an avid reader of fiction books, Wilbur Smith and Dan Brown are one of my favorite authors.**
+- 💬 About Me: **I am a gamer and huge football and basketball fan. I am also an avid reader of fiction books, Wilbur Smith and Dan Brown are one of my favorite authors.**
 
 - 📫 How to reach me **herventubi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamhervinho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamhervinho" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/herve-ntubi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="herve-ntubi" height="30" width="40" /></a>
 </p>
 
